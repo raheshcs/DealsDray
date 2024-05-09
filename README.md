@@ -1,12 +1,8 @@
-# DealsDray
 
-Certainly! Here's the README file formatted with the provided information:
 
----
+# Deals Dray Automation Testing Assignment
 
-# Deals Drat Automation Testing Assignment
-
-This repository contains automation testing scripts for Deals Drat, implemented using Python, Behave, Selenium, and other relevant tools.
+This repository contains automation testing scripts for DealsDray, implemented using Python, Behave, Selenium, and other relevant tools.
 
 ## Installation
 
@@ -62,7 +58,7 @@ Ensure that the appropriate Chrome WebDriver is available in your system's PATH 
 
 ## Acknowledgments
 
-Thank you for using Deals Drat Automation Testing Assignment. If you encounter any issues or have suggestions for improvements, feel free to open an issue or contribute to the repository.
+Thank you for using DealsDray Automation Testing Assignment. If you encounter any issues or have suggestions for improvements, feel free to open an issue or contribute to the repository.
 
 ---
 
@@ -70,5 +66,5 @@ Feel free to customize the README further to include any additional information 
 Attaching Log Files Images in below
 ![image](https://github.com/raheshcs/DealsDray/assets/139362471/7894f317-6695-42a6-b9fd-f016646ad389)
 
-![image](https://github.com/raheshcs/DealsDray/assets/139362471/425fa8e5-ad0b-4870-8216-dacfb4981c3c)
+![image](https://github.com/raheshcs/Dray/assets/139362471/425fa8e5-ad0b-4870-8216-dacfb4981c3c)
 
