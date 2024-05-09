@@ -1,4 +1,4 @@
-![image](https://github.com/raheshcs/DealsDray/assets/139362471/ca2566bc-b464-4033-b3ef-957f677e4b0d)# DealsDray
+# DealsDray
 
 Certainly! Here's the README file formatted with the provided information:
 
