@@ -62,10 +62,9 @@ Thank you for using DealsDray Automation Testing Assignment. If you encounter an
 
 ---
 
-Feel free to customize the README further to include any additional information about your project or setup instructions.
-
 
 Attaching Log Files Images in below
+
 ![image](https://github.com/raheshcs/DealsDray/assets/139362471/7894f317-6695-42a6-b9fd-f016646ad389)
 
 ![image](https://github.com/raheshcs/DealsDray/assets/139362471/36d36f03-ca8c-4e9f-9d37-72c4b6ece76b)
